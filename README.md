@@ -17,7 +17,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## Viewing The App
-
-Go to [website](/website/templates/home.html)
